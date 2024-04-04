@@ -14,7 +14,7 @@ Books to Scrap is a Python project designed to scrape book information from book
 - Utilizes Jupyter notebooks for interactive development and documentation
 
 ## Usage
-1. Open the respective Jupyter notebooks (`book_information.ipynb`, `book_image_information.ipynb`, `multiple_webpages_scraping.ipynb`) in your Jupyter environment.
+1. Open the respective Jupyter notebooks (`Book Scrape - Information about Books.ipynb`, ``, `multiple_webpages_scraping.ipynb`) in your Jupyter environment.
 2. Run each cell in sequence to execute the scraping scripts and view the results.
 3. Refer to the comments and markdown cells within the notebooks for additional instructions and explanations.
 
